@@ -1,6 +1,5 @@
 ### Hi there 👋
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
 <!--
 **Ibrahim58563/ibrahim58563** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,8 +17,6 @@ Here are some ideas to get you started:
 
 ### I'm  Ibrahim Mansour <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
 ![](https://visitor-badge.glitch.me/badge?page_id=mhmzdev.mhmzdev)
-
-
 <!-- <div align="center">
 <p align="center">Nominate me as GitHub Star ⭐</p>
 
@@ -29,9 +26,13 @@ Here are some ideas to get you started:
 
 </div> -->
 
-
 ### A Student, Developer
 
+- 🔭 I’m currently working on some projects
+- 🌱 I’m currently enhancing my coding level
+- 💬 Ask me about anything
+- 📫 How to reach me: all my contact fields in bio section
+- ⚡ Fun fact: last section 😅
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
 #### Talking about my personal stuff:
