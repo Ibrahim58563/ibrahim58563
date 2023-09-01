@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <!--
 **Ibrahim58563/ibrahim58563** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -89,5 +90,4 @@ Here are some ideas to get you started:
 
 
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-[profile]: https://ibrahim58563.github.io/Portfolio/
+<!-- [profile]: https://ibrahim58563.github.io/Portfolio/
