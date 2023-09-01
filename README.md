@@ -78,13 +78,6 @@ Here are some ideas to get you started:
 
 <br>
 
-<summary>📝 My GitHub Stats</summary>
-<br>
-
-[![Ibrahim's github stats](https://github-readme-stats.vercel.app/api?username=mhmzdev&theme=gotham)](https://github.com/mhmzdev/github-readme-stats)
-
-
-
 
 Open Source Contributor from <b>Pakistan<b> 💚 
 
