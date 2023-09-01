@@ -33,10 +33,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 📫 How to reach me: all my contact fields in bio section
 - 💻 The tech I'm interested Flutter/ML/AR etc.
-- 📱 First Live app on Play Store [Holy Qur'an App][quran]
 - ✨ I'm learning Flutter.
 - ⚡ Fun fact: last section 😅
-<!--- 📄 Live [Portfolio][profile]-->
+<!--- 📄 Live [Portfolio][profile]
+- 📱 First Live app on Play Store [Holy Qur'an App][quran]
+
+-->
 
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
