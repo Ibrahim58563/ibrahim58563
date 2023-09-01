@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hey there, I'm  Ibrahim Mansour <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
+### I'm  Ibrahim Mansour <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
 ![](https://visitor-badge.glitch.me/badge?page_id=mhmzdev.mhmzdev)
 
 
