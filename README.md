@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hey there, I'm  Ibrahim Mansour <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
+![](https://visitor-badge.glitch.me/badge?page_id=mhmzdev.mhmzdev)
 
 <div align="center">
 <p align="center">Let's connect!</p>
@@ -81,7 +82,6 @@ Here are some ideas to get you started:
 
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=mhmzdev.mhmzdev)
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 [profile]: https://ibrahim58563.github.io/Portfolio/
