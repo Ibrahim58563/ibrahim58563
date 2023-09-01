@@ -32,15 +32,15 @@ Here are some ideas to get you started:
 - 🌱 I’m currently enhancing my coding level
 - 💬 Ask me about anything
 - 📫 How to reach me: all my contact fields in bio section
-- ⚡ Fun fact: last section 😅
-<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
-
-#### Talking about my personal stuff:
-
 - 💻 The tech I'm interested Flutter/ML/AR etc.
 - 📱 First Live app on Play Store [Holy Qur'an App][quran]
 - ✨ I'm learning Flutter.
-- 📄 Live [Portfolio][profile]
+- ⚡ Fun fact: last section 😅
+<!--- 📄 Live [Portfolio][profile]-->
+
+<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
+
+
 
 
 <!-- ### Languages & Tools
