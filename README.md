@@ -28,8 +28,7 @@ Here are some ideas to get you started:
 
 ### A Student, Developer
 
-- 🔭 I’m currently working on some projects
-- 🌱 I’m currently enhancing my coding level
+- 🔭 I’m currently working on Onvaca
 - 💬 Ask me about anything
 - 📫 How to reach me: all my contact fields in bio section
 - 💻 The tech I'm interested Flutter/ML/AR etc.
