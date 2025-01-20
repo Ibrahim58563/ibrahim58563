@@ -1,5 +1,4 @@
 ### Hi there 👋
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <!--
 **ibrahimmansour1/ibrahimmansour1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,10 +11,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-![](https://visitor-badge.glitch.me/badge?page_id=mhmzdev.mhmzdev)
 <!-- <div align="center">
 <p align="center">Nominate me as GitHub Star ⭐</p>
 
@@ -32,13 +29,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: all my contact fields in bio section
 - 💻 The tech I'm interested Flutter/ML/AR etc.
 - ✨ I'm learning Flutter.
-- ⚡ Fun fact: last section 😅
 <!--- 📄 Live [Portfolio][profile]
 - 📱 First Live app on Play Store [Holy Qur'an App][quran]
 
 -->
 
-<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
 
 
